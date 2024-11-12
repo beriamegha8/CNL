@@ -1,4 +1,3 @@
-// EXP 7: SLIDING WINDOW PROTOCOL
 #include<iostream>
 using namespace std;
 
