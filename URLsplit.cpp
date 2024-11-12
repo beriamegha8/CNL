@@ -1,4 +1,3 @@
-// EXP 12: URL Splitting Experiment
 #include <iostream>
 #include <string>
 using namespace std;
