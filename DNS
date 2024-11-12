@@ -1,0 +1,9 @@
+pc, switch, server
+inside server
+desktop config-> add ip and dns, ip=dns
+services-> http add h1-> hello cisco save
+dns-> service on
+add name and address (ip same as server)-> add
+
+pc config
+pc web browser-> type address or name
